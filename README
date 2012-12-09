@@ -1,0 +1,5 @@
+This code will check Mangareader website and send SMSes to a list of users when a new Naruto Manga is available. 
+
+REQUIREMENTS
+Install BeautifulSoup module: http://www.crummy.com/software/BeautifulSoup/#Download
+Install Hoiio Python SDK: https://github.com/samwize/hoiiopie
